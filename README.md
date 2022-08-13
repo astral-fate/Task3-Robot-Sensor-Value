@@ -2,7 +2,7 @@
 
 
 ## Table Of Content
-#Setting up the database(#Setting-up-the-database)
+1. [Setting up the database](#Setting-up-the-database)
 
 
 
