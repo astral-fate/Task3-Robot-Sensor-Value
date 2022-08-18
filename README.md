@@ -4,7 +4,8 @@
 ## Table Of Content
 1. [Setting up the database](#Setting-up-the-database)
 2. [Connectting PHP with the DataBase](#Connectting-PHP-with-the-DataBase) 
-3. [Crrating the Interface](#Crrating-the-Interface)
+3. [Creating the Interface](#Creating-the-Interface)
+4. [Checking the DataBase]#(Checking-the-DataBase) 
 
 
 
@@ -26,7 +27,7 @@
                     ?>
                     
                     
- # Crrating the Interface
+ # Creating the Interface
  
  For creating the user interface, I used the open sourse HTML5.net tampletes and customized it for my purpose 
  https://html5up.net/
@@ -41,4 +42,12 @@
 
 
 ![image](https://user-images.githubusercontent.com/63984422/185339030-80f56274-50db-41ef-a55c-d4e72eb6001d.png)
+
+
+
+# Checking the DataBase
+
+Indeed, our value that we intered is saved in the database
+
+![image](https://user-images.githubusercontent.com/63984422/185339729-b6069a18-296b-45f9-8eea-1da3fb368625.png)
 
