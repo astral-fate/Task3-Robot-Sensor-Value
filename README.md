@@ -57,6 +57,17 @@ if we didn't do that we will see an error message as such:
 
 
 
+In the interface, we created a form and assigned the method 'GET' to it as follows:
+           
+           <form method="GET" action="db.php">
+
+
+for the submission button, we created an id and class we named submit for this task
+
+             <input class = "button" type="submit" value="Submit" name="submit"> 
+
+           
+
 # Checking the DataBase
 
 Indeed, our value that we intered is saved in the database
