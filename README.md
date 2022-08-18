@@ -2,13 +2,25 @@
 
 
 ## Table Of Content
-1. [Setting up the database](#Setting-up-the-database)
-2. [Connectting PHP with the DataBase](#Connectting-PHP-with-the-DataBase) 
-3. [Creating the Interface](#Creating-the-Interface)
-4. [Checking the DataBase](#Checking-the-DataBase) 
+1. [Running the local server XAMPP](#Running-the-local-server)
+2. [Setting up the database](#Setting-up-the-database)
+3. [Connectting PHP with the DataBase](#Connectting-PHP-with-the-DataBase) 
+4. [Creating the Interface](#Creating-the-Interface)
+5. [Checking the DataBase](#Checking-the-DataBase) 
 
 
 
+#Running the local server
+
+Since we want to work with API, in other word work with the user and store and take info from the users using GET method. 
+We have to run our local sever XAMPP, and placing our folders in htodcs file. Then when we want to access the file we have to write in 
+browser's URl: 
+        localhost/then the name of our folder
+        
+if we didn't do that we will see an error message as such:
+
+
+       "/* Open a Connection to MySQL: Before we can access data in the MySQL database, we need to be able to connect to the server */"
 
 # Setting up the database
 
