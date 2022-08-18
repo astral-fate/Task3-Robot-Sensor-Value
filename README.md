@@ -5,7 +5,7 @@
 1. [Setting up the database](#Setting-up-the-database)
 2. [Connectting PHP with the DataBase](#Connectting-PHP-with-the-DataBase) 
 3. [Creating the Interface](#Creating-the-Interface)
-4. [Checking the DataBase]#(Checking-the-DataBase) 
+4. [Checking the DataBase](#Checking-the-DataBase) 
 
 
 
